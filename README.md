@@ -1,7 +1,7 @@
 # InvoiceDivider
 Dividing invoices to under 100,000 RMB pretax each.
 
-## 请下载后缀为 ".msi" 的文件进行安装。
+## 请下载后缀为 ".msi" 的文件进行下载和安装。
 
 ### 使用说明：
 
