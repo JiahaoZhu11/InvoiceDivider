@@ -1,7 +1,7 @@
 # InvoiceDivider
 Dividing invoices to under 100,000 RMB pretax each.
 
-## 请同时下载两个文件并用后缀为 ".exe" 的文件进行安装。
+## 请同时下载两个文件并用"Setup.exe" 的文件进行安装。
 
 ### 使用说明：
 
